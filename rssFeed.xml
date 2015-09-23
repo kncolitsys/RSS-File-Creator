@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+<title>My Site RSS feeds</title>
+<link>http://www.underlinemedia.com</link>
+<description>Listing of my RSS feeds</description>
+
+<item>
+<pubDate>2007-08-30 00:00:00.0</pubDate>
+	<title>Slashdot</title>
+	<link>http://www.slashdot.com</link>
+	<description>Visit Slashdot.com for articals on all your new technical reviews</description>
+</item>
+<item>
+<pubDate>2007-08-30 00:00:00.0</pubDate>
+	<title>UnderlineMedia</title>
+	<link>http://www.underlinemedia.com</link>
+	<description>UnderlineMedia.com, makers of this application, hope to release new applications for the public very soon.  Check back often.</description>
+</item>
+<item>
+<pubDate>2007-08-30 00:00:00.0</pubDate>
+	<title>Adobe</title>
+	<link>http://www.adobe.com</link>
+	<description>Makers of ColdFusion.</description>
+</item>
+</channel>
+
